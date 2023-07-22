@@ -65,7 +65,7 @@ int main() {
 
     collection.add(nestedCollection);
 
-    std::cout << "Size: " << collection.size() << std::endl; // Выводит 6
+    std::cout << "Size: " << collection.size() << std::endl; // Выводит 4
 
     return 0;
 }
